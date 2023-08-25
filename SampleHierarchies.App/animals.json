@@ -1,0 +1,33 @@
+{
+	"Mammals":	{
+		"Dogs":	[
+			{
+				"Breed":	"Labrador",
+				"Species":	1,
+				"Name":	"Den",
+				"Age":	12
+			}
+		],
+		"Cats":	[
+			{
+				"Breed":	"Korat",
+				"Color":	"White",
+				"Species":	2,
+				"Name":	"Kitty",
+				"Age":	2
+			}
+		],
+		"Lions":	[
+			{
+				"ApexPredator":	" apex predator",
+				"PackHunter":	" pack hunter",
+				"Mane":	"Red",
+				"Communication":	"roar",
+				"TerritoryDefense":	" don't defend territory",
+				"Species":	3,
+				"Name":	"Danny",
+				"Age":	32
+			}
+		]
+	}
+}

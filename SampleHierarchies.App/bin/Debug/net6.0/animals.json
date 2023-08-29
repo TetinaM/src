@@ -1,0 +1,18 @@
+{
+	"Mammals":	{
+		"Dogs":	[
+			{
+				"Breed":	"Labrador",
+				"Species":	1,
+				"Name":	"Red",
+				"Age":	12
+			}
+		],
+		"Cats":	[
+			
+		],
+		"Lions":	[
+			
+		]
+	}
+}

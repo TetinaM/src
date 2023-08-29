@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SampleHierarchies.Interfaces/1.0.0": {
+        "dependencies": {
+          "SampleHierarchies.Enums": "1.0.0"
+        },
+        "runtime": {
+          "SampleHierarchies.Interfaces.dll": {}
+        }
+      },
+      "SampleHierarchies.Enums/1.0.0": {
+        "runtime": {
+          "SampleHierarchies.Enums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SampleHierarchies.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SampleHierarchies.Enums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

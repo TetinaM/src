@@ -1,0 +1,45 @@
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.deps.json
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.CopyComplete
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\refint\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\ProgrammingObjectOriented-main точно правильно\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\ref\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.deps.json
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.CopyComplete
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\refint\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marti\OneDrive\Рабочий стол\src\SampleHierarchies.Interfaces\obj\Debug\net6.0\ref\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.deps.json
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.csproj.CopyComplete
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\refint\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Interfaces\obj\Debug\net6.0\ref\SampleHierarchies.Interfaces.dll

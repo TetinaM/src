@@ -19,6 +19,12 @@
     <ProjectReference Include="..\SampleHierarchies.Services\SampleHierarchies.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="animals.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
   <ProjectExtensions><VisualStudio><UserProperties /></VisualStudio></ProjectExtensions>
 
 </Project>

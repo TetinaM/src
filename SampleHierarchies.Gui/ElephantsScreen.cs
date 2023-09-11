@@ -137,8 +137,8 @@ namespace SampleHierarchies.Gui
 
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -175,8 +175,8 @@ namespace SampleHierarchies.Gui
                 }
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -213,8 +213,8 @@ namespace SampleHierarchies.Gui
                 }
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -241,7 +241,7 @@ namespace SampleHierarchies.Gui
             string? tuskLengthAsString = Console.ReadLine();
             Console.Write("What is the elephant's long lifespan? ");
             string? longLifespanAsString = Console.ReadLine();
-            Console.Write("what is the social behavior of an elephant");
+            Console.Write("What is the social behavior of an elephant? ");
             string? socialBehavior = Console.ReadLine();
 
 

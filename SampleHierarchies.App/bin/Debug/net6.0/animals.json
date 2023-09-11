@@ -4,15 +4,54 @@
 			{
 				"Breed":	"Labrador",
 				"Species":	1,
-				"Name":	"Red",
+				"Name":	"Fan",
 				"Age":	12
 			}
 		],
 		"Cats":	[
-			
+			{
+				"Breed":	"Bambino",
+				"Color":	"Red",
+				"Species":	2,
+				"Name":	"Raddy",
+				"Age":	34
+			}
 		],
 		"Lions":	[
-			
+			{
+				"ApexPredator":	" apex predator",
+				"PackHunter":	" not pack hunter",
+				"Mane":	"red",
+				"Communication":	"roar",
+				"TerritoryDefense":	" defend territory",
+				"Species":	3,
+				"Name":	"Favve",
+				"Age":	43
+			}
+		],
+		"Elephants":	[
+			{
+				"Height":	105.0,
+				"Weight":	45.0,
+				"TuskLength":	45.0,
+				"LongLifespan":	67,
+				"SocialBehavior":	"hvhivy",
+				"Species":	4,
+				"Name":	"Ferry",
+				"Age":	12
+			}
+		],
+		"Tigers":	[
+			{
+				"ApexPredator":	" apex predator",
+				"Size":	"big",
+				"Fur":	"vyuvdt",
+				"Legs":	"big",
+				"Behavior":	"xaugxva",
+				"Species":	5,
+				"Name":	"Dan",
+				"Age":	13
+			}
 		]
 	}
 }

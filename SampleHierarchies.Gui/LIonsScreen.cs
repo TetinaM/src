@@ -136,8 +136,8 @@ namespace SampleHierarchies.Gui
 
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -174,8 +174,8 @@ namespace SampleHierarchies.Gui
                 }
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -212,8 +212,8 @@ namespace SampleHierarchies.Gui
                 }
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch

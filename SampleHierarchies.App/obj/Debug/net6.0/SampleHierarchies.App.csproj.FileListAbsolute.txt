@@ -242,3 +242,4 @@ C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchi
 C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.pdb
 C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.App\obj\Debug\net6.0\SampleHierarchies.App.genruntimeconfig.cache
 C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.App\obj\Debug\net6.0\ref\SampleHierarchies.App.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.App\bin\Debug\net6.0\animals.json

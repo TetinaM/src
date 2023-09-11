@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M1IiPEVajDrrpvKhzvHgVv+S4mlYsEJj6ZgPD6iQTJLi94kt6JWUct4domer/ffhT2bdeoAcm9Q9Pr0hoimqKw==",
+  "dgSpecHash": "xKxz3CV8IzphbCTJIrbg2CqP2YjPW0voHRC6Xb/ZxavINssMJCr7w40kMiKU7928Tf58ZXimStg+kpnU3tRv7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.App\\SampleHierarchies.App.csproj",
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.App\\SampleHierarchies.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0-preview.2.23128.3\\microsoft.extensions.configuration.8.0.0-preview.2.23128.3.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0-preview.2.23128.3\\microsoft.extensions.configuration.abstractions.8.0.0-preview.2.23128.3.nupkg.sha512",

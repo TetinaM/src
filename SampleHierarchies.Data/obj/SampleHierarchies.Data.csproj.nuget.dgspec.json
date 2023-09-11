@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj": {}
+    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj": {
+    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj",
         "projectName": "SampleHierarchies.Data",
-        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj",
+        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Data\\SampleHierarchies.Data.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Data\\obj\\",
+        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj": {
-                "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj"
+              "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj"
               }
             }
           }
@@ -67,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj": {
+    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj",
         "projectName": "SampleHierarchies.Enums",
-        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj",
+        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Enums\\obj\\",
+        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -89,6 +90,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -126,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj": {
+    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj",
         "projectName": "SampleHierarchies.Interfaces",
-        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj",
+        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -148,14 +150,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj": {
-                "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj"
+              "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj": {
+                "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Enums\\SampleHierarchies.Enums.csproj"
               }
             }
           }

@@ -67,3 +67,26 @@ C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.
 C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Gui\obj\Debug\net6.0\refint\SampleHierarchies.Gui.dll
 C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.pdb
 C:\Users\marti\OneDrive\Рабочий стол\src — kopia\SampleHierarchies.Gui\obj\Debug\net6.0\ref\SampleHierarchies.Gui.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Gui.deps.json
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Data.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Enums.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Helpers.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Interfaces.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Services.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Interfaces.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Services.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Data.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Enums.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\bin\Debug\net6.0\SampleHierarchies.Helpers.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.csproj.AssemblyReference.cache
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.csproj.CopyComplete
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\refint\SampleHierarchies.Gui.dll
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\SampleHierarchies.Gui.pdb
+C:\Users\marti\OneDrive\Рабочий стол\унер\src\src\SampleHierarchies.Gui\obj\Debug\net6.0\ref\SampleHierarchies.Gui.dll

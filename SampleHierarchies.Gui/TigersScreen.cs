@@ -38,6 +38,7 @@ namespace SampleHierarchies.Gui
 
         }
         #endregion Properties And Ctor
+
         #region Public Methods
         public override void Show()
         {
@@ -136,8 +137,8 @@ namespace SampleHierarchies.Gui
 
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -174,8 +175,8 @@ namespace SampleHierarchies.Gui
                 }
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -212,8 +213,8 @@ namespace SampleHierarchies.Gui
                 }
                 if (_dataService != null)
                 {
-                    _dataService.Write("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Zapis danych do pliku
-                    _dataService.Read("C:\\Users\\marti\\OneDrive\\Рабочий стол\\src — kopia\\SampleHierarchies.App\\animals.json"); // Odczyt danych z pliku
+                    _dataService.Write("animals.json"); // Zapis danych do pliku
+                    _dataService.Read("animals.json"); // Odczyt danych z pliku
                 }
             }
             catch
@@ -232,19 +233,19 @@ namespace SampleHierarchies.Gui
             string? name = Console.ReadLine();
             Console.Write("What is the tiger's age? ");
             string? ageAsString = Console.ReadLine();
-            Console.Write("A tiger is a apex predater? Yes or no?");
+            Console.Write("A tiger is a apex predater? Yes or no? ");
             string? apexPredatorString = Console.ReadLine();
-            Console.Write("A lion is big ot small?");
+            Console.Write("A lion is big ot small?" );
             string? size = Console.ReadLine();
-            Console.Write("What kind of fur does he have?");
+            Console.Write("What kind of fur does he have? ");
             string? fur = Console.ReadLine();
             Console.Write("What are his legs? ");
             string? legs = Console.ReadLine();
-            Console.Write("What is his behavior?");
+            Console.Write("What is his behavior? ");
             string? behavior = Console.ReadLine();
 
 
-            string apexPredatorText = apexPredatorString == "Yes" ? " apex predator" : " not apex predator";
+            string apexPredatorText = apexPredatorString == "yes" ? " apex predator" : " not apex predator";
             
 
             if (name is null)

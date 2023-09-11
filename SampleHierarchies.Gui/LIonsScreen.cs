@@ -232,9 +232,9 @@ namespace SampleHierarchies.Gui
             string? name = Console.ReadLine();
             Console.Write("What is the lion's age? ");
             string? ageAsString = Console.ReadLine();
-            Console.Write("A lion is a apex predater? Yes or no?");
+            Console.Write("A lion is a apex predater? Yes or no? ");
             string? apexPredatorString = Console.ReadLine();
-            Console.Write("A lion is a pack hunter. Yes or no");
+            Console.Write("A lion is a pack hunter. Yes or no? ");
             string? packHunterString = Console.ReadLine();
             Console.Write("What is his mane?");
             string? mane = Console.ReadLine();
@@ -244,9 +244,9 @@ namespace SampleHierarchies.Gui
             string? territoryDefenceString = Console.ReadLine();
 
 
-            string apexPredatorText = apexPredatorString == "Yes" ? " apex predator" : " not apex predator";
-            string packHunterText = packHunterString == "Yes" ? " pack hunter" : " not pack hunter";
-            string territoryDefenceText = territoryDefenceString == "Yes" ? " defend territory" : " don't defend territory";
+            string apexPredatorText = apexPredatorString == "yes" ? " apex predator" : " not apex predator";
+            string packHunterText = packHunterString == "yes" ? " pack hunter" : " not pack hunter";
+            string territoryDefenceText = territoryDefenceString == "yes" ? " defend territory" : " don't defend territory";
 
             if (name is null)
             {

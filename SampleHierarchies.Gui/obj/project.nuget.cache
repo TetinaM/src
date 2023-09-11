@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cb0aGwB/MKhh8j20Be0LaYlSFCj+/xzhcSsRyR7VTnOnPD7e4EdD9U2a/XYnKLyRluHjIqpmzDJclyQ77bd0IQ==",
+  "dgSpecHash": "2MZba8ZlbF7qASqNERkmdtdVBAwQMQn7Mgwc8HgO4o3VnzZbiDchwO+ewmev3D2sbt/V30QjHSZs/WJSAhJiDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Gui\\SampleHierarchies.Gui.csproj",
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Gui\\SampleHierarchies.Gui.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

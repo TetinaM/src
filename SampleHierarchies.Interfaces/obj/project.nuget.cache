@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nvLNyXBZFryEglHXO27srVUCVsSDG3UiB67JwP9BR53X7dELMJA0EFbKuZmLaUCoS5Nsh2L5nzY62+6qkpZeyA==",
+  "dgSpecHash": "xXXvzIIIa3V1S1xb5b2nhOrSeWLeQCP0YQrwfZDxM8dqlmPPUSV9qtbrqX5KX5F9usGCItL+NbYZjL7hna+Q8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj",
+  "projectFilePath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Interfaces\\SampleHierarchies.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

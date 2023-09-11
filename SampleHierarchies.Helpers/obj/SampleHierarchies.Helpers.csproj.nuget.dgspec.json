@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj": {}
+    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj": {
+    "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj",
+        "projectUniqueName": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj",
         "projectName": "SampleHierarchies.Helpers",
-        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj",
+        "projectPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Helpers\\SampleHierarchies.Helpers.csproj",
         "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\src\\SampleHierarchies.Helpers\\obj\\",
+        "outputPath": "C:\\Users\\marti\\OneDrive\\Рабочий стол\\унер\\src\\src\\SampleHierarchies.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
